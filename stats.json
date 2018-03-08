@@ -1,0 +1,92 @@
+{
+  "assetsByChunkName": {
+    "path---author-fil": [
+      "path---author-fil-50e3b43dd37039205da6.js",
+      "path---author-fil-50e3b43dd37039205da6.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---src-layouts-index-jsx": [
+      "component---src-layouts-index-jsx-dff34d0693e5d76b636f.js",
+      "component---src-layouts-index-jsx-dff34d0693e5d76b636f.js.map"
+    ],
+    "path---about-css-specificity": [
+      "path---about-css-specificity-809aa515c5e9d1262cf9.js",
+      "path---about-css-specificity-809aa515c5e9d1262cf9.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "path---categories-research": [
+      "path---categories-research-e869927cd913b6ca6f52.js",
+      "path---categories-research-e869927cd913b6ca6f52.js.map"
+    ],
+    "component---src-templates-category-jsx": [
+      "component---src-templates-category-jsx-3f9f38b2a16b22af9077.js",
+      "component---src-templates-category-jsx-3f9f38b2a16b22af9077.js.map"
+    ],
+    "path---tags-research": [
+      "path---tags-research-ad83df267d6ebdca6ebd.js",
+      "path---tags-research-ad83df267d6ebdca6ebd.js.map"
+    ],
+    "path---index": [
+      "path---index-4f4c51b34789a7ea21c5.js",
+      "path---index-4f4c51b34789a7ea21c5.js.map"
+    ],
+    "component---src-pages-about-jsx": [
+      "component---src-pages-about-jsx-16dca089dee574aef9ce.js",
+      "component---src-pages-about-jsx-16dca089dee574aef9ce.js.map"
+    ],
+    "path---tags-specificity": [
+      "path---tags-specificity-94a3706acd87d1918b73.js",
+      "path---tags-specificity-94a3706acd87d1918b73.js.map"
+    ],
+    "component---src-templates-author-jsx": [
+      "component---src-templates-author-jsx-12ce2ca0e878ee8e2bca.js",
+      "component---src-templates-author-jsx-12ce2ca0e878ee8e2bca.js.map"
+    ],
+    "commons": [
+      "commons-784705ff4beb256d0ee1.js",
+      "build-js-styles.css",
+      "commons-784705ff4beb256d0ee1.js.map",
+      "build-js-styles.css.map"
+    ],
+    "component---src-templates-tag-jsx": [
+      "component---src-templates-tag-jsx-85798fa12450532095a6.js",
+      "component---src-templates-tag-jsx-85798fa12450532095a6.js.map"
+    ],
+    "component---src-templates-index-jsx": [
+      "component---src-templates-index-jsx-126c5af1aafe240746a3.js",
+      "component---src-templates-index-jsx-126c5af1aafe240746a3.js.map"
+    ],
+    "path---tags-css": [
+      "path---tags-css-dd4bc9fa2615b9011c3c.js",
+      "path---tags-css-dd4bc9fa2615b9011c3c.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-templates-post-jsx": [
+      "component---src-templates-post-jsx-90038b367d6620879e67.js",
+      "component---src-templates-post-jsx-90038b367d6620879e67.js.map"
+    ],
+    "path---tags-css-basics": [
+      "path---tags-css-basics-3f23475fdd4c515f2f59.js",
+      "path---tags-css-basics-3f23475fdd4c515f2f59.js.map"
+    ],
+    "app": [
+      "app-135aba33f25e3dd700fd.js",
+      "build-js-styles.css",
+      "app-135aba33f25e3dd700fd.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---about": [
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
