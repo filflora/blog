@@ -1,28 +1,28 @@
 {
   "assetsByChunkName": {
     "path---tags-explanation": [
-      "path---tags-explanation-aa78c45e35623091ce4b.js",
-      "path---tags-explanation-aa78c45e35623091ce4b.js.map"
+      "path---tags-explanation-5a1baf1b715741903a6d.js",
+      "path---tags-explanation-5a1baf1b715741903a6d.js.map"
     ],
     "path---author-fil": [
-      "path---author-fil-77f0e3c35f18f818209c.js",
-      "path---author-fil-77f0e3c35f18f818209c.js.map"
+      "path---author-fil-9eaafd9ccfab5020316c.js",
+      "path---author-fil-9eaafd9ccfab5020316c.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "path---wtf-js-explanation-maths-fun": [
-      "path---wtf-js-explanation-maths-fun-cda19bb6c4f2d4ec1bde.js",
-      "path---wtf-js-explanation-maths-fun-cda19bb6c4f2d4ec1bde.js.map"
+      "path---wtf-js-explanation-maths-fun-720d5573d497192a2a30.js",
+      "path---wtf-js-explanation-maths-fun-720d5573d497192a2a30.js.map"
     ],
     "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-dff34d0693e5d76b636f.js",
-      "component---src-layouts-index-jsx-dff34d0693e5d76b636f.js.map"
+      "component---src-layouts-index-jsx-868e122948397ac3e00e.js",
+      "component---src-layouts-index-jsx-868e122948397ac3e00e.js.map"
     ],
     "path---about-css-specificity": [
-      "path---about-css-specificity-09c8882b1e71569b0807.js",
-      "path---about-css-specificity-09c8882b1e71569b0807.js.map"
+      "path---about-css-specificity-6631c59034375b575c3f.js",
+      "path---about-css-specificity-6631c59034375b575c3f.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
@@ -33,8 +33,8 @@
       "path---categories-research-8d48d79d40a96ca3d151.js.map"
     ],
     "path---categories-explanation": [
-      "path---categories-explanation-aba8b4a856fef4c50e75.js",
-      "path---categories-explanation-aba8b4a856fef4c50e75.js.map"
+      "path---categories-explanation-174b08db0668b5777591.js",
+      "path---categories-explanation-174b08db0668b5777591.js.map"
     ],
     "component---src-templates-category-jsx": [
       "component---src-templates-category-jsx-3f9f38b2a16b22af9077.js",
@@ -45,8 +45,8 @@
       "path---tags-research-97fc87e4594d09ce0c57.js.map"
     ],
     "path---index": [
-      "path---index-224cf2f02f5dc331df3d.js",
-      "path---index-224cf2f02f5dc331df3d.js.map"
+      "path---index-f2adc95144e52ef09eab.js",
+      "path---index-f2adc95144e52ef09eab.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-16dca089dee574aef9ce.js",
@@ -71,16 +71,16 @@
       "component---src-templates-tag-jsx-85798fa12450532095a6.js.map"
     ],
     "path---tags-math": [
-      "path---tags-math-660469557367f7055d7a.js",
-      "path---tags-math-660469557367f7055d7a.js.map"
+      "path---tags-math-2c1192a16abec85d87e7.js",
+      "path---tags-math-2c1192a16abec85d87e7.js.map"
     ],
     "path---tags-default-types": [
       "path---tags-default-types-98aef314d2a3f0a04732.js",
       "path---tags-default-types-98aef314d2a3f0a04732.js.map"
     ],
     "path---tags-wtf-js": [
-      "path---tags-wtf-js-0dcd721ddf8e610d42a6.js",
-      "path---tags-wtf-js-0dcd721ddf8e610d42a6.js.map"
+      "path---tags-wtf-js-9ac4f84d33d9cc21b93b.js",
+      "path---tags-wtf-js-9ac4f84d33d9cc21b93b.js.map"
     ],
     "path---tags-coertion": [
       "path---tags-coertion-1bd460debcee836e9f78.js",
@@ -102,27 +102,31 @@
       "component---src-templates-post-jsx-85f2f286b9119823e2e8.js",
       "component---src-templates-post-jsx-85f2f286b9119823e2e8.js.map"
     ],
+    "path---wtf-js-explanation-not-a-number-is-not-a-not-a-number": [
+      "path---wtf-js-explanation-not-a-number-is-not-a-not-a-number-04aa41ccd7f8ec351374.js",
+      "path---wtf-js-explanation-not-a-number-is-not-a-not-a-number-04aa41ccd7f8ec351374.js.map"
+    ],
     "path---wtf-js-explanation-almost-but-not-quite": [
-      "path---wtf-js-explanation-almost-but-not-quite-6fe8cb69bf259c7d663d.js",
-      "path---wtf-js-explanation-almost-but-not-quite-6fe8cb69bf259c7d663d.js.map"
+      "path---wtf-js-explanation-almost-but-not-quite-27f9d8ae349409005049.js",
+      "path---wtf-js-explanation-almost-but-not-quite-27f9d8ae349409005049.js.map"
     ],
     "path---tags-css-basics": [
       "path---tags-css-basics-6ec08cca1684702bd75d.js",
       "path---tags-css-basics-6ec08cca1684702bd75d.js.map"
     ],
     "app": [
-      "app-c8826f2ca9e4c707e82e.js",
+      "app-d9408c218f972610c53b.js",
       "build-js-styles.css",
-      "app-c8826f2ca9e4c707e82e.js.map",
+      "app-d9408c218f972610c53b.js.map",
       "build-js-styles.css.map"
     ],
     "path---wtf-js-explanation-foonanny": [
-      "path---wtf-js-explanation-foonanny-8abfceffd67f30a953d0.js",
-      "path---wtf-js-explanation-foonanny-8abfceffd67f30a953d0.js.map"
+      "path---wtf-js-explanation-foonanny-6b0658b28c31bffacdd3.js",
+      "path---wtf-js-explanation-foonanny-6b0658b28c31bffacdd3.js.map"
     ],
     "path---tags-js": [
-      "path---tags-js-883ee383d13be5f6f665.js",
-      "path---tags-js-883ee383d13be5f6f665.js.map"
+      "path---tags-js-a174174f120eef257029.js",
+      "path---tags-js-a174174f120eef257029.js.map"
     ],
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",
