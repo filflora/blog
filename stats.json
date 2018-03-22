@@ -1,104 +1,120 @@
 {
   "assetsByChunkName": {
+    "path---tags-syntax": [
+      "path---tags-syntax-d2371299bfab896d98f7.js",
+      "path---tags-syntax-d2371299bfab896d98f7.js.map"
+    ],
     "path---tags-es-6": [
-      "path---tags-es-6-ddbbe8c943a0604118ef.js",
-      "path---tags-es-6-ddbbe8c943a0604118ef.js.map"
+      "path---tags-es-6-c97ca8a033a47039a3e4.js",
+      "path---tags-es-6-c97ca8a033a47039a3e4.js.map"
     ],
     "path---tags-explanation": [
-      "path---tags-explanation-96e638e36847daf646f5.js",
-      "path---tags-explanation-96e638e36847daf646f5.js.map"
+      "path---tags-explanation-c9496dbbd7307c98284e.js",
+      "path---tags-explanation-c9496dbbd7307c98284e.js.map"
     ],
     "path---sorting-an-array-of-objects-with-pure-javascript": [
-      "path---sorting-an-array-of-objects-with-pure-javascript-2b1f0cc6d598b7dd69c3.js",
-      "path---sorting-an-array-of-objects-with-pure-javascript-2b1f0cc6d598b7dd69c3.js.map"
+      "path---sorting-an-array-of-objects-with-pure-javascript-a25eaa77e80bd81698f0.js",
+      "path---sorting-an-array-of-objects-with-pure-javascript-a25eaa77e80bd81698f0.js.map"
     ],
     "path---tags-basics": [
-      "path---tags-basics-659a982a4171034905c7.js",
-      "path---tags-basics-659a982a4171034905c7.js.map"
+      "path---tags-basics-ceda0ea34410c08a0646.js",
+      "path---tags-basics-ceda0ea34410c08a0646.js.map"
     ],
     "path---author-fil": [
-      "path---author-fil-654b36800229114741af.js",
-      "path---author-fil-654b36800229114741af.js.map"
+      "path---author-fil-821ca2863ef6e86066d3.js",
+      "path---author-fil-821ca2863ef6e86066d3.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "path---categories-basics": [
-      "path---categories-basics-32a4e2b37888b21f969a.js",
-      "path---categories-basics-32a4e2b37888b21f969a.js.map"
+      "path---categories-basics-530a0dadb6391e6a9364.js",
+      "path---categories-basics-530a0dadb6391e6a9364.js.map"
     ],
     "path---wtf-js-explanation-maths-fun": [
-      "path---wtf-js-explanation-maths-fun-5b37a54d310a945566bc.js",
-      "path---wtf-js-explanation-maths-fun-5b37a54d310a945566bc.js.map"
+      "path---wtf-js-explanation-maths-fun-69b001732b485239abd7.js",
+      "path---wtf-js-explanation-maths-fun-69b001732b485239abd7.js.map"
     ],
     "component---src-layouts-index-jsx": [
       "component---src-layouts-index-jsx-868e122948397ac3e00e.js",
       "component---src-layouts-index-jsx-868e122948397ac3e00e.js.map"
     ],
     "path---wtf-js-explanation-parse-int-treachery": [
-      "path---wtf-js-explanation-parse-int-treachery-508da3daffeb9402001a.js",
-      "path---wtf-js-explanation-parse-int-treachery-508da3daffeb9402001a.js.map"
+      "path---wtf-js-explanation-parse-int-treachery-11f285e825d121298004.js",
+      "path---wtf-js-explanation-parse-int-treachery-11f285e825d121298004.js.map"
     ],
     "path---about-css-specificity": [
-      "path---about-css-specificity-ea079efdf4a139bd0e14.js",
-      "path---about-css-specificity-ea079efdf4a139bd0e14.js.map"
+      "path---about-css-specificity-c2b4b913c0e9b0149600.js",
+      "path---about-css-specificity-c2b4b913c0e9b0149600.js.map"
     ],
     "path---wtf-js-explanation-null-is-not-an-object": [
-      "path---wtf-js-explanation-null-is-not-an-object-6b22b1329662cd0f8c21.js",
-      "path---wtf-js-explanation-null-is-not-an-object-6b22b1329662cd0f8c21.js.map"
+      "path---wtf-js-explanation-null-is-not-an-object-ef3182249f3bca528410.js",
+      "path---wtf-js-explanation-null-is-not-an-object-ef3182249f3bca528410.js.map"
     ],
     "path---tags-array": [
-      "path---tags-array-4284c8eea1a5c1182451.js",
-      "path---tags-array-4284c8eea1a5c1182451.js.map"
+      "path---tags-array-c930d870ad9013c112fb.js",
+      "path---tags-array-c930d870ad9013c112fb.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "path---categories-research": [
-      "path---categories-research-8d48d79d40a96ca3d151.js",
-      "path---categories-research-8d48d79d40a96ca3d151.js.map"
+      "path---categories-research-97f6cdccc7c826cd19d2.js",
+      "path---categories-research-97f6cdccc7c826cd19d2.js.map"
     ],
     "path---categories-terminology": [
-      "path---categories-terminology-5a6b504d8b730f27a305.js",
-      "path---categories-terminology-5a6b504d8b730f27a305.js.map"
+      "path---categories-terminology-fcaee136d5a53bd73540.js",
+      "path---categories-terminology-fcaee136d5a53bd73540.js.map"
     ],
     "path---categories-explanation": [
-      "path---categories-explanation-e474eb7130221a4ce122.js",
-      "path---categories-explanation-e474eb7130221a4ce122.js.map"
+      "path---categories-explanation-c025fc6ee62ba25fcfd8.js",
+      "path---categories-explanation-c025fc6ee62ba25fcfd8.js.map"
     ],
     "component---src-templates-category-jsx": [
       "component---src-templates-category-jsx-3f9f38b2a16b22af9077.js",
       "component---src-templates-category-jsx-3f9f38b2a16b22af9077.js.map"
     ],
     "path---tags-research": [
-      "path---tags-research-97fc87e4594d09ce0c57.js",
-      "path---tags-research-97fc87e4594d09ce0c57.js.map"
+      "path---tags-research-51306a50e2ce0ba0a219.js",
+      "path---tags-research-51306a50e2ce0ba0a219.js.map"
+    ],
+    "path---wtf-js-explanation-null-is-not-falsy": [
+      "path---wtf-js-explanation-null-is-not-falsy-b7666c3e944d4401dc63.js",
+      "path---wtf-js-explanation-null-is-not-falsy-b7666c3e944d4401dc63.js.map"
     ],
     "path---js-terminology-temporal-dead-zone": [
-      "path---js-terminology-temporal-dead-zone-0812230b37f7d331f542.js",
-      "path---js-terminology-temporal-dead-zone-0812230b37f7d331f542.js.map"
+      "path---js-terminology-temporal-dead-zone-dd527836a369c4659f30.js",
+      "path---js-terminology-temporal-dead-zone-dd527836a369c4659f30.js.map"
     ],
     "path---index": [
-      "path---index-1189433274fdd5c3dc8a.js",
-      "path---index-1189433274fdd5c3dc8a.js.map"
+      "path---index-4d50d9b10f577afdedce.js",
+      "path---index-4d50d9b10f577afdedce.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-16dca089dee574aef9ce.js",
       "component---src-pages-about-jsx-16dca089dee574aef9ce.js.map"
     ],
+    "path---categories-es-6": [
+      "path---categories-es-6-2be72ddad92d2f10a782.js",
+      "path---categories-es-6-2be72ddad92d2f10a782.js.map"
+    ],
     "path---tags-sort": [
-      "path---tags-sort-5b94f6d4e166c25d5510.js",
-      "path---tags-sort-5b94f6d4e166c25d5510.js.map"
+      "path---tags-sort-2330740e3e55d9e51eda.js",
+      "path---tags-sort-2330740e3e55d9e51eda.js.map"
+    ],
+    "path---2": [
+      "path---2-8db3eda989a1e184f652.js",
+      "path---2-8db3eda989a1e184f652.js.map"
     ],
     "path---tags-primitives": [
-      "path---tags-primitives-1ce63b3ad0882cb61521.js",
-      "path---tags-primitives-1ce63b3ad0882cb61521.js.map"
+      "path---tags-primitives-e096ac47ce8c91527a07.js",
+      "path---tags-primitives-e096ac47ce8c91527a07.js.map"
     ],
     "path---tags-specificity": [
-      "path---tags-specificity-b1971dd9801be08f9e1e.js",
-      "path---tags-specificity-b1971dd9801be08f9e1e.js.map"
+      "path---tags-specificity-a7bbc5395ae66e808ed7.js",
+      "path---tags-specificity-a7bbc5395ae66e808ed7.js.map"
     ],
     "component---src-templates-author-jsx": [
       "component---src-templates-author-jsx-12ce2ca0e878ee8e2bca.js",
@@ -115,28 +131,28 @@
       "component---src-templates-tag-jsx-85798fa12450532095a6.js.map"
     ],
     "path---tags-math": [
-      "path---tags-math-2c1192a16abec85d87e7.js",
-      "path---tags-math-2c1192a16abec85d87e7.js.map"
+      "path---tags-math-48e30d10d38edf9fa19a.js",
+      "path---tags-math-48e30d10d38edf9fa19a.js.map"
     ],
     "path---tags-default-types": [
-      "path---tags-default-types-98aef314d2a3f0a04732.js",
-      "path---tags-default-types-98aef314d2a3f0a04732.js.map"
+      "path---tags-default-types-07ea72684788fa15ec4c.js",
+      "path---tags-default-types-07ea72684788fa15ec4c.js.map"
     ],
     "path---tags-wtf-js": [
-      "path---tags-wtf-js-ddc859238f2e10e5786d.js",
-      "path---tags-wtf-js-ddc859238f2e10e5786d.js.map"
+      "path---tags-wtf-js-76e0fcbc5d7e32bfb108.js",
+      "path---tags-wtf-js-76e0fcbc5d7e32bfb108.js.map"
     ],
     "path---tags-coertion": [
-      "path---tags-coertion-1bd460debcee836e9f78.js",
-      "path---tags-coertion-1bd460debcee836e9f78.js.map"
+      "path---tags-coertion-c773e6c9451c1ba0b482.js",
+      "path---tags-coertion-c773e6c9451c1ba0b482.js.map"
     ],
     "component---src-templates-index-jsx": [
       "component---src-templates-index-jsx-43077250942c5a1b163a.js",
       "component---src-templates-index-jsx-43077250942c5a1b163a.js.map"
     ],
     "path---tags-css": [
-      "path---tags-css-fc87653656eb81dc6809.js",
-      "path---tags-css-fc87653656eb81dc6809.js.map"
+      "path---tags-css-197609c60fa81485f579.js",
+      "path---tags-css-197609c60fa81485f579.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
@@ -147,38 +163,46 @@
       "component---src-templates-post-jsx-85f2f286b9119823e2e8.js.map"
     ],
     "path---wtf-js-explanation-not-a-number-is-not-a-not-a-number": [
-      "path---wtf-js-explanation-not-a-number-is-not-a-not-a-number-418ff55c8a120f436344.js",
-      "path---wtf-js-explanation-not-a-number-is-not-a-not-a-number-418ff55c8a120f436344.js.map"
+      "path---wtf-js-explanation-not-a-number-is-not-a-not-a-number-ee2e50d6740e06cce23d.js",
+      "path---wtf-js-explanation-not-a-number-is-not-a-not-a-number-ee2e50d6740e06cce23d.js.map"
     ],
     "path---wtf-js-explanation-almost-but-not-quite": [
-      "path---wtf-js-explanation-almost-but-not-quite-ff3197a33c151042cd4f.js",
-      "path---wtf-js-explanation-almost-but-not-quite-ff3197a33c151042cd4f.js.map"
+      "path---wtf-js-explanation-almost-but-not-quite-f1f55f30f1b89a45a44f.js",
+      "path---wtf-js-explanation-almost-but-not-quite-f1f55f30f1b89a45a44f.js.map"
     ],
     "path---tags-css-basics": [
-      "path---tags-css-basics-6ec08cca1684702bd75d.js",
-      "path---tags-css-basics-6ec08cca1684702bd75d.js.map"
+      "path---tags-css-basics-dc253f0647ede09e624d.js",
+      "path---tags-css-basics-dc253f0647ede09e624d.js.map"
     ],
     "app": [
-      "app-863ef98809deffbeefad.js",
+      "app-f8acd2daa972e156ae5a.js",
       "build-js-styles.css",
-      "app-863ef98809deffbeefad.js.map",
+      "app-f8acd2daa972e156ae5a.js.map",
       "build-js-styles.css.map"
     ],
     "path---wtf-js-explanation-foonanny": [
-      "path---wtf-js-explanation-foonanny-79b49e18567ceb7c63bf.js",
-      "path---wtf-js-explanation-foonanny-79b49e18567ceb7c63bf.js.map"
+      "path---wtf-js-explanation-foonanny-039966d732644a62a318.js",
+      "path---wtf-js-explanation-foonanny-039966d732644a62a318.js.map"
+    ],
+    "path---tags-objects": [
+      "path---tags-objects-63b1ddd1156fbd57d720.js",
+      "path---tags-objects-63b1ddd1156fbd57d720.js.map"
     ],
     "path---tags-terminology": [
-      "path---tags-terminology-8920fcf916c2d742caf5.js",
-      "path---tags-terminology-8920fcf916c2d742caf5.js.map"
+      "path---tags-terminology-6cc77978a0d9d64b7eda.js",
+      "path---tags-terminology-6cc77978a0d9d64b7eda.js.map"
     ],
     "path---tags-js": [
-      "path---tags-js-01d24d830f7825893122.js",
-      "path---tags-js-01d24d830f7825893122.js.map"
+      "path---tags-js-b0154604cfba7ccb5a6d.js",
+      "path---tags-js-b0154604cfba7ccb5a6d.js.map"
     ],
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",
       "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---enhanced-object-literals-es-6": [
+      "path---enhanced-object-literals-es-6-500df8206b81eccc9428.js",
+      "path---enhanced-object-literals-es-6-500df8206b81eccc9428.js.map"
     ]
   }
 }
